@@ -3,7 +3,7 @@
 def fib(n):    # write Fibonacci series up to n
     a, b = 0, 1
     while a < n:
-        print("value: %d" %  (a) )
+        print("Value: %d" %  (a) )
         a, b = b, a+b
     print()
 
